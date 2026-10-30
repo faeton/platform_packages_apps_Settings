@@ -198,7 +198,7 @@ There are HTTP, HTTPS, DNS, DNS-over-TLS and DNS-over-HTTPS connectivity checks.
     <string name="duress_pwd_pref_title">Duress password</string>
     <string name="duress_pwd_description">"Duress password can be entered instead of the user password in any place that asks for it, such as the lock screen of any user and any user or work profile password prompt.
 
-Submitting the duress password will immediately make the storage contents permanently inaccessible, delete all eSIMs and then power off the device. os.ivan.gg will remain installed.
+Submitting the duress password will immediately make the storage contents permanently inaccessible, delete all eSIMs and then power off the device. ee1os will remain installed.
 
 Duress PIN works the same way duress password does."</string>
     <string name="duress_pwd_enter_pin">Enter duress PIN</string>
